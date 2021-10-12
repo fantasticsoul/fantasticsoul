@@ -8,6 +8,6 @@
 - ❤️ I'm focusing on [concent](https://github.com/concentjs/concent)
 - 💬 Ask me about react if you want some help.
 - 📫 How to reach me: 624313307@qq.com 、 zhongzhengkai@gmail.com
-- ⚡ Fun fact: I like star-craft I so much, I am a protoss player and my apm can reach 220, I am also a fan of nintendo games(zelda、mario...)
+- ⚡ Fun fact: I like star-craft one so much, I am a protoss player and my apm can reach 220, I am also a fan of nintendo games(zelda、mario...)
 
 <img src="https://github-readme-stats.vercel.app/api?username=fantasticsoul&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"></img>
