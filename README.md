@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on tencent
 - 🌱 I’m currently learning react、node and others。
-- ❤️ I'm focusing on [concent](https://github.com/concentjs/concent)
+- ❤️ I'm focusing on [concent](https://github.com/concentjs/concent)、[limu](https://github.com/tnfe/limu)、[hel-mico](https://github.com/tnfe/hel)
 - 💬 Ask me about react if you want some help.
 - 📫 How to reach me: 624313307@qq.com 、 zhongzhengkai@gmail.com
 - ⚡ Fun fact: I like star-craft one so much, I am a protoss player and my apm can reach 220, I am also a fan of nintendo games(zelda、mario...)
